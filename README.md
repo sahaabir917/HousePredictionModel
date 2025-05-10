@@ -44,5 +44,4 @@ The model shows good performance and generalization without major overfitting.
 The test dataset underwent the same processing steps, predictions were made, and
 'submission.csv' containing the 'Id' and 'SalePrice' columns for submission to Kaggle was
 generated and saved.
-After submitting the csv file the public score was 0.41085 and the leaderboard position is
-4351.
+After submitting the csv file the public score was 0.41085 and the leaderboard position is 4259.
