@@ -46,4 +46,3 @@ The test dataset underwent the same processing steps, predictions were made, and
 generated and saved.
 After submitting the csv file the public score was 0.41085 and the leaderboard position is
 4351.
- 
